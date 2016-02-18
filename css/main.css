@@ -135,7 +135,7 @@ h4{
 	background-image: url("../img/fondo2.jpg");
 }
 .blog{
-	margin-left: 20px;
+	margin-left: 100px;
 	margin-top: 10px;
 }
 .post{
@@ -233,4 +233,14 @@ color: black;
 }
 .tam2{
 	margin: -30px 0px 0px 60px;
+}
+.slider{
+	margin-left: 50px;
+	margin-top: 200px;
+	position: absolute;
+}
+.slider1{
+	margin-left: 1250px;
+	margin-top: 200px;
+	position: absolute;
 }
